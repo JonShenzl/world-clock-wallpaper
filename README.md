@@ -2,6 +2,8 @@
 
 一个 Windows 10/11 桌面时钟小工具：把时间放在桌面图标层之上、普通窗口之下，并随当地时间在清晨、白天、黄昏、深夜之间渐变配色，不遮挡正在使用的窗口。
 
+![世界时钟动态壁纸](docs/preview.png)
+
 ## 功能
 
 - 显示指定时区的大号时间、日期与星期
@@ -51,3 +53,8 @@
 ## 许可
 
 本项目采用自定义非商业许可：自由复制、修改，禁止商业使用；整合或再分发时必须注明出处（Jon.Shen，Jon.Shen@Foxmail.com）。详见 [LICENSE](LICENSE)。
+
+## 相关工具
+
+- [图片格式转换器](https://github.com/JonShenzl/img-convert-to-jpg)
+- [公网IP查询](https://github.com/JonShenzl/public-ip-query)
