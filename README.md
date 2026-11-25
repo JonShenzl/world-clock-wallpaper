@@ -47,3 +47,7 @@
 
 - exe 未做代码签名，首次运行可能触发 SmartScreen 提示
 - 版本号见 exe 文件属性，Release 以标签形式标记（如 `v1.5`）
+
+## 许可
+
+本项目采用自定义非商业许可：自由复制、修改，禁止商业使用；整合或再分发时必须注明出处（Jon.Shen，Jon.Shen@Foxmail.com）。详见 [LICENSE](LICENSE)。

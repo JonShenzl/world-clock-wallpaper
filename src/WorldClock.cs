@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Jon.Shen (Jon.Shen@Foxmail.com)
+// 自由复制、修改；禁止商业使用；整合或再分发需注明出处。
+
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -14,7 +17,7 @@ using System.Windows.Threading;
 [assembly: System.Reflection.AssemblyTitle("World Clock Wallpaper")]
 [assembly: System.Reflection.AssemblyProduct("World Clock Wallpaper")]
 [assembly: System.Reflection.AssemblyCompany("Jon.Shen")]
-[assembly: System.Reflection.AssemblyCopyright("Copyright \u00A9 2026 Jon.Shen")]
+[assembly: System.Reflection.AssemblyCopyright("Copyright \u00A9 2026 Jon.Shen (Jon.Shen@Foxmail.com). Non-commercial use only; attribution required.")]
 [assembly: System.Reflection.AssemblyDescription("World Clock Wallpaper | Jon.Shen | Jon.shen@Foxmail.com")]
 [assembly: System.Reflection.AssemblyVersion("1.5.0.0")]
 [assembly: System.Reflection.AssemblyFileVersion("1.5.0.0")]

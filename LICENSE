@@ -1,21 +1,31 @@
-MIT License
+非商业许可协议 / Non-Commercial License
 
-Copyright (c) 2026 Jon.Shen
+版权所有 (c) 2026 Jon.Shen
+Copyright (c) 2026 Jon.Shen (Jon.Shen@Foxmail.com)
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+一、授权范围
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. 任何人可以自由复制、修改、合并、发布本软件及其源代码，用于个人学习、研究或其他非商业用途。
+2. 禁止任何形式的商业使用，包括但不限于：销售本软件或其修改版、用于付费服务、集成进商业产品、以营利为目的的分发。
+3. 整合、二次分发或发布衍生作品时，必须在显著位置注明出处：作者 Jon.Shen（Jon.Shen@Foxmail.com）及本项目原始仓库地址。
+4. 分发时必须保留本版权声明与许可条款，不得移除、修改或替换。
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+二、免责声明
+
+本软件按“原样”提供，不附带任何明示或暗示的担保，包括但不限于适销性、特定用途适用性和非侵权性担保。在任何情况下，作者不对因使用本软件而产生的任何索赔、损害或其他责任负责。
+
+---
+
+English Summary
+
+Copyright (c) 2026 Jon.Shen (Jon.Shen@Foxmail.com)
+
+Permission is granted to copy, modify, merge, and distribute this software and its source code for personal, educational, or other non-commercial purposes only.
+
+Commercial use of any kind is prohibited, including selling the software or derivative works, using it in paid services, or integrating it into commercial products.
+
+Any integration, redistribution, or derivative work must clearly credit the original author, Jon.Shen (Jon.Shen@Foxmail.com), and link back to the original repository.
+
+This copyright notice and these terms must be retained in all copies or substantial portions of the software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
